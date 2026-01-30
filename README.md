@@ -4,6 +4,12 @@
 <head>
 <style>
 
+div {
+  width: 1366px;
+  margin: auto;
+}
+
+
 </style>
 <title>Economy Class Bingo</title>
 </head>
